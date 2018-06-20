@@ -2,4 +2,4 @@
 
 This is merely a test.
 
-There is no need to panic. (No, really.)
+There is no need to panic.
