@@ -1,5 +1,5 @@
 # setup
-git clone [url] OR git pull
+git pull OR git clone [url]
 
 # working
 git add [files]
