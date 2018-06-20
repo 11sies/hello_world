@@ -6,4 +6,4 @@ git add [files]
 git commit -m "message"
 
 # finished
-git push
+git push [url] [branch]
